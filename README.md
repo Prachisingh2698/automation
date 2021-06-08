@@ -1,4 +1,4 @@
-# Automation - App That Works For You
+# KIET Admin App - App That Works For You
 
 The modern technology solutions are diverse and work at different levels making it difficult for the 
 users to link their applications to work synchronously. Individual applications are a great feature in 
